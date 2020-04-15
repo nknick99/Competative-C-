@@ -47,7 +47,7 @@ void append(int data)
     }
 }
 
-// displaying the reversed elements
+// displaying the middle element of LL
 int mid_ele_display()
 {
     int t_index = 0, index = 0;
